@@ -4,9 +4,9 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=uvite
-kernel.compiler=AOSP clang
-kernel.made=CHRISL7
+kernel.string=HuP-R1
+kernel.compiler=AOSP Clang
+kernel.made=Johan Kepler
 message.word=
 do.devicecheck=1
 do.modules=0
