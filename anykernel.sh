@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=HuP-R1
+kernel.string=HuP-R2
 kernel.compiler=AOSP Clang
 kernel.made=Johan Kepler
 message.word=
