@@ -5,7 +5,7 @@
 # global properties
 properties() { '
 kernel.string=HuP-R2
-kernel.compiler=AOSP Clang
+kernel.compiler=Neutron Clang 19.0
 kernel.made=Johan Kepler
 message.word=
 do.devicecheck=1
