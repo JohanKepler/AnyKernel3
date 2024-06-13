@@ -4,9 +4,9 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=HuP-R3 KSU
+kernel.string=HuP KSU
 kernel.compiler=Neutron Clang 19.0
-kernel.made=Johan Kepler
+kernel.made=HuP Team
 message.word=
 do.devicecheck=1
 do.modules=0
